@@ -41,11 +41,15 @@ Bibliography and references
 
 FAO. (2022). The State of Food and Agriculture 2022: Leveraging automation in agriculture for transforming agrifood systems.
 https://www.fao.org/publications/sofa/2022/en/ 
+
 FAO. Technical Platform on the Measurement and Reduction of Food Loss and Waste.
 https://www.fao.org/platform-food-loss-waste/en/ 
+
 FAO. Food Loss App (FLAPP).
 https://www.fao.org/platform-food-loss-waste/food-loss/fao-flapp/en 
+
 UNEP. (2024). Food Waste Index Report 2024.
-https://wedocs.unep.org/handle/20.500.11822/45230    
+https://wedocs.unep.org/handle/20.500.11822/45230  
+
 United Nations. Sustainable Development Goal 12: Responsible Consumption and Production.
 https://sdgs.un.org/goals/goal12 
