@@ -7,6 +7,7 @@ Building AI course project
 LocalFood Connect is a proposed AI-enabled platform that connects small-scale food producers with nearby consumers, restaurants, retailers, producer markets and institutions. It would combine available supply, buyer demand, product perishability, location and timing to recommend potential transactions.
 Its objectives are to improve market access for small producers, strengthen short food supply chains and reduce avoidable food losses. AI would support—not replace—commercial decisions and local relationships.
 
+## Project
 Background:
 Small-scale producers may struggle to reach buyers quickly, while local buyers may lack up-to-date information about seasonal availability. This information gap is particularly costly for fresh, perishable produce.
 FAO and UNEP identify food loss and waste as major sustainability challenges. Short food supply chains can improve direct connections, although their environmental benefits depend on transport, logistics and other local conditions.
