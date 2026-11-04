@@ -38,6 +38,7 @@ Acknowledgments:
 This conceptual project draws on FAO research on agrifood digitalization, food loss and waste, and UNEP’s work on food waste, alongside the United Nations Sustainable Development Goals. No real producer or buyer data were used; the examples are illustrative.
 
 Bibliography and references
+
 FAO. (2022). The State of Food and Agriculture 2022: Leveraging automation in agriculture for transforming agrifood systems.
 https://www.fao.org/publications/sofa/2022/en/ 
 FAO. Technical Platform on the Measurement and Reduction of Food Loss and Waste.
